@@ -1,1 +1,13 @@
 Going to contain scripts for different ideas for the microbit.
+
+This is a list of items to create. This is not a be all end all list
+
+1. Script to run compass
+2. Script to run altemeter
+3. A and B work
+4. USB to work with data
+5. USB to deliver data from stuff
+6. Run ech cases on button in real time
+7. Run each with button and deliver data 
+8. Text to Speech through speaker
+9. 
